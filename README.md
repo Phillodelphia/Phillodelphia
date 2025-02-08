@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### I'm doing the codes and automation 
+
+## Main languages I use
+* Python
+* Javascript
+
+## Newbie programmer trying to learn new stuff and find out how to exit Vim
+
 <!--
 **Phillodelphia/Phillodelphia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
