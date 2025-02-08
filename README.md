@@ -1,6 +1,7 @@
 ## Hi there 👋
-### Newbie programmer trying to learn new stuff and find out how to exit Vim
-### I'm doing the codes and automation 
+Newbie programmer trying to learn new stuff and find out how to exit Vim
+
+I'm doing the codes and automation 
 
 ## Main languages I use
 * Python
